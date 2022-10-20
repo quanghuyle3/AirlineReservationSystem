@@ -1,0 +1,20 @@
+Individual: Emily Tran
+1 B
+Individual: David Brava
+1 C
+Individual: Amy Lian
+3 C
+Individual: Rick James
+10 F
+Group: The boys
+Daniel James, Howard Steward, Benjamin West
+2 A, 2 B, 2 C
+Group: Tech guys
+Joseph Phan, Kendal Swift
+3 A, 3 B
+Group: Soundaband
+Susi Kim, Kritin Dana
+10 A, 10 B
+Group: Dance Club
+Britany Johnson, Karim Abdu, Hayder Ringa, Shawn Snow, Jake Miller
+11 A, 11 B, 11 C, 11 D, 11 E
